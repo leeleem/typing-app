@@ -1,6 +1,6 @@
-# Typing Game - Sushi-da Style
+# Typing Game
 
-A Flutter-based typing game inspired by the Sushi-da typing game.
+A Flutter-based typing game
 
 ## Features
 
