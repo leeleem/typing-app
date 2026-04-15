@@ -23,7 +23,7 @@ A Flutter-based typing game inspired by the Sushi-da typing game.
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/typing-app.git
+git clone https://github.com/leeleem/typing-app.git
 cd typing-app
 
 # Install dependencies
